@@ -1,26 +1,33 @@
 //student of nios
-1.ronak
-2.govinda
-3.gaytri=done
-4.zaid
-5.aasif
-6.aman kumar
-7.ahasan
-8.amara=done
-9.najrana=done
-10.arbaaz
-11.heena=done
-12.shahrukh khan=done
-13.dev=done
-14.javed
-15.aadi =done
-16.rihan=done
-17.anas 
-18.muskan =done
-19.sofiya
-20.aditya
-21.noni
-22.noor
+// phone number of vijay chahal 9215000546
+Faisal
+Arish
+Naina
+Sonakshi 
+Janvi
+Shadma 
+Naziya 
+Kakul
+Tohib
+Ayan up
+Natasha
+Gungun
+Jay Kumar 
+Vivan
+Farhan
+Faizan
+Tamjeed
+Shabiba
+Shaheen
+Nusrat 
+Meraj
+Saif
+Nitesh
+Nidan
+Ayan2
+Parvez
+Isha
+Gazala
 
 
 
